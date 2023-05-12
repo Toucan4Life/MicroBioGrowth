@@ -17,7 +17,8 @@
 		"vscode": {
 			"extensions": [
 				"ms-toolsai.jupyter",
-				"mechatroner.rainbow-csv"
+				"mechatroner.rainbow-csv",
+				"mutantdino.resourcemonitor"
 			]
 		}
 	}
