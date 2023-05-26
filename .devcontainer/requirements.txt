@@ -4,3 +4,5 @@ matplotlib
 seaborn
 mlxtend
 py_muvr
+statsmodel
+imblearn
